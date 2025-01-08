@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F80608-F209-4A25-876F-DD585BF0AF67}|OOOP2.vcxproj|C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\ShopContainerContents.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8F80608-F209-4A25-876F-DD585BF0AF67}|OOOP2.vcxproj|solutionrelative:ShopContainerContents.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F80608-F209-4A25-876F-DD585BF0AF67}|OOOP2.vcxproj|C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\ShopContainer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8F80608-F209-4A25-876F-DD585BF0AF67}|OOOP2.vcxproj|solutionrelative:ShopContainer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F80608-F209-4A25-876F-DD585BF0AF67}|OOOP2.vcxproj|C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8F80608-F209-4A25-876F-DD585BF0AF67}|OOOP2.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T17:19:39.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopContainer.cpp",
+              "DocumentMoniker": "C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\ShopContainer.cpp",
+              "RelativeDocumentMoniker": "ShopContainer.cpp",
+              "ToolTip": "C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\ShopContainer.cpp",
+              "RelativeToolTip": "ShopContainer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T17:18:44.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopContainerContents.h",
+              "DocumentMoniker": "C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\ShopContainerContents.h",
+              "RelativeDocumentMoniker": "ShopContainerContents.h",
+              "ToolTip": "C:\\Users\\fisht\\OneDrive\\Desktop\\OOOP2\\ShopContainerContents.h",
+              "RelativeToolTip": "ShopContainerContents.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T17:17:21.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
